@@ -1,0 +1,16 @@
+{
+  "central": [
+    {
+      "id": "pmo",
+      "name": "Prime Minister's Office (PMO), New Delhi",
+      "email": "pmo@pmindia.gov.in",
+      "phone": "+911123019393"
+    },
+    {
+      "id": "cpcb",
+      "name": "Central Pollution Control Board (CPCB), New Delhi",
+      "email": "cpcb@nic.in",
+      "phone": "+911143195533"
+    }
+  ]
+}

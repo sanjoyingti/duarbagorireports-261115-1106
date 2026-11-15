@@ -1,0 +1,392 @@
+{
+  "defaults": {
+    "municipal": {
+      "name": "Municipal grievance cell",
+      "email": "grievance@municipalboard.gov.in",
+      "phone": "+911800111222"
+    },
+    "pwd": {
+      "name": "Public Works Department — roads division",
+      "email": "pwd.roads@gov.in",
+      "phone": "+911800111333"
+    },
+    "traffic": {
+      "name": "District traffic police",
+      "email": "traffic@police.gov.in",
+      "phone": "+911800111444"
+    },
+    "district": {
+      "name": "District Collector's grievance cell",
+      "email": "dm-grievance@nic.in",
+      "phone": "+911800111555"
+    },
+    "power": {
+      "name": "State electricity distribution board",
+      "email": "complaints@discom.gov.in",
+      "phone": "+911800111666"
+    },
+    "water": {
+      "name": "Public health engineering / water board",
+      "email": "waterboard@gov.in",
+      "phone": "+911800111777"
+    }
+  },
+  "cities": [
+    {
+      "city": "Guwahati",
+      "state": "Assam",
+      "municipal": {
+        "name": "Guwahati Municipal Corporation — grievance cell",
+        "email": "gmc.grievance@gmc.gov.in",
+        "phone": "+913612730000"
+      },
+      "pwd": {
+        "name": "PWD Guwahati Roads Division",
+        "email": "pwd.guwahati@gov.in",
+        "phone": "+913612230101"
+      },
+      "traffic": {
+        "name": "Guwahati Traffic Police",
+        "email": "traffic.guwahati@police.gov.in",
+        "phone": "+913612223333"
+      },
+      "district": {
+        "name": "Kamrup Metro District Commissioner",
+        "email": "dc-kamrupmet@nic.in",
+        "phone": "+913612733000"
+      }
+    },
+    {
+      "city": "Golaghat",
+      "state": "Assam",
+      "municipal": {
+        "name": "Golaghat Municipal Board",
+        "email": "mb-golaghat@assam.gov.in",
+        "phone": "+913772800011"
+      },
+      "pwd": {
+        "name": "PWD Golaghat Division",
+        "email": "pwd.golaghat@assam.gov.in",
+        "phone": "+913772800012"
+      },
+      "district": {
+        "name": "Golaghat District Commissioner",
+        "email": "dc-golaghat@nic.in",
+        "phone": "+913772800013"
+      }
+    },
+    {
+      "city": "Bokakhat",
+      "state": "Assam",
+      "municipal": {
+        "name": "Bokakhat Town Committee",
+        "email": "tc-bokakhat@assam.gov.in",
+        "phone": "+913772640022"
+      },
+      "pwd": {
+        "name": "PWD Bokakhat Sub-Division",
+        "email": "pwd.bokakhat@assam.gov.in",
+        "phone": "+913772640023"
+      },
+      "district": {
+        "name": "Bokakhat Sub-Divisional Officer (Civil)",
+        "email": "sdo-bokakhat@nic.in",
+        "phone": "+913772640024"
+      }
+    },
+    {
+      "city": "Diphu",
+      "state": "Assam",
+      "municipal": {
+        "name": "Diphu Municipal Board",
+        "email": "mb-diphu@assam.gov.in",
+        "phone": "+913671270031"
+      },
+      "district": {
+        "name": "Karbi Anglong District Commissioner",
+        "email": "dc-karbianglong@nic.in",
+        "phone": "+913671270032"
+      }
+    },
+    {
+      "city": "Jorhat",
+      "state": "Assam",
+      "municipal": {
+        "name": "Jorhat Municipal Board",
+        "email": "mb-jorhat@assam.gov.in",
+        "phone": "+913761240041"
+      },
+      "pwd": {
+        "name": "PWD Jorhat Division",
+        "email": "pwd.jorhat@assam.gov.in",
+        "phone": "+913761240042"
+      },
+      "district": {
+        "name": "Jorhat District Commissioner",
+        "email": "dc-jorhat@nic.in",
+        "phone": "+913761240043"
+      }
+    },
+    {
+      "city": "Delhi",
+      "state": "Delhi",
+      "municipal": {
+        "name": "Municipal Corporation of Delhi — 311 call centre",
+        "email": "mcd311@mcd.nic.in",
+        "phone": "+91155111"
+      },
+      "pwd": {
+        "name": "Delhi PWD — road maintenance",
+        "email": "pwd-grievance@nic.in",
+        "phone": "+911011299474"
+      },
+      "traffic": {
+        "name": "Delhi Traffic Police",
+        "email": "traffic@delhipolice.gov.in",
+        "phone": "+91109494"
+      },
+      "district": {
+        "name": "Delhi Divisional Commissioner",
+        "email": "divcom@nic.in",
+        "phone": "+911123392434"
+      }
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "municipal": {
+        "name": "Brihanmumbai Municipal Corporation — MyBMC grievance",
+        "email": "mybmc@mcgm.gov.in",
+        "phone": "+912222630000"
+      },
+      "pwd": {
+        "name": "Mumbai PWD — roads",
+        "email": "pwd.mumbai@maharashtra.gov.in",
+        "phone": "+912222020101"
+      },
+      "traffic": {
+        "name": "Mumbai Traffic Police",
+        "email": "traffic@mumbaipolice.gov.in",
+        "phone": "+912229020202"
+      },
+      "district": {
+        "name": "Mumbai City Collector",
+        "email": "collector.mumbaicty@maharashtra.gov.in",
+        "phone": "+912222603000"
+      }
+    },
+    {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "municipal": {
+        "name": "Pune Municipal Corporation — grievance cell",
+        "email": "grievance@pmc.gov.in",
+        "phone": "+912025501000"
+      },
+      "traffic": {
+        "name": "Pune Traffic Police",
+        "email": "traffic@punepolice.gov.in",
+        "phone": "+912026202020"
+      },
+      "district": {
+        "name": "Pune District Collector",
+        "email": "collector.pune@maharashtra.gov.in",
+        "phone": "+912026101500"
+      }
+    },
+    {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "municipal": {
+        "name": "Bruhat Bengaluru Mahanagara Palike — helpline",
+        "email": "complaints@bbmp.gov.in",
+        "phone": "+918022637000"
+      },
+      "pwd": {
+        "name": "BBMP Road Infrastructure cell",
+        "email": "roads@bbmp.gov.in",
+        "phone": "+918022633000"
+      },
+      "traffic": {
+        "name": "Bengaluru Traffic Police",
+        "email": "traffic@bengalurupolice.gov.in",
+        "phone": "+918022923775"
+      },
+      "district": {
+        "name": "Bengaluru Urban Deputy Commissioner",
+        "email": "dc.bengaluruurban@karnataka.gov.in",
+        "phone": "+918022205000"
+      }
+    },
+    {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "municipal": {
+        "name": "Greater Chennai Corporation — grievance redressal",
+        "email": "grievance@gcc.tn.gov.in",
+        "phone": "+914425306100"
+      },
+      "traffic": {
+        "name": "Greater Chennai Traffic Police",
+        "email": "traffic@chennaipolice.tn.gov.in",
+        "phone": "+914428410000"
+      },
+      "district": {
+        "name": "Chennai District Collector",
+        "email": "collector.chennai@tn.gov.in",
+        "phone": "+914428620100"
+      }
+    },
+    {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "municipal": {
+        "name": "Kolkata Municipal Corporation — 1553 helpline",
+        "email": "mmic@kmcgov.in",
+        "phone": "+913322116121"
+      },
+      "traffic": {
+        "name": "Kolkata Traffic Police",
+        "email": "traffic@kolkatapolice.gov.in",
+        "phone": "+913322113318"
+      },
+      "district": {
+        "name": "Kolkata District Magistrate",
+        "email": "dm.kolkata@wb.gov.in",
+        "phone": "+913322115000"
+      }
+    },
+    {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "municipal": {
+        "name": "Greater Hyderabad Municipal Corporation — grievance",
+        "email": "complaints@ghmc.gov.in",
+        "phone": "+914021111111"
+      },
+      "traffic": {
+        "name": "Hyderabad Traffic Police",
+        "email": "traffic@hydtraffic.gov.in",
+        "phone": "+914027850333"
+      },
+      "district": {
+        "name": "Hyderabad District Collector",
+        "email": "collector.hyderabad@telangana.gov.in",
+        "phone": "+914023101555"
+      }
+    },
+    {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "municipal": {
+        "name": "Lucknow Municipal Corporation — complaint cell",
+        "email": "cmc.lucknow@urban.up.nic.in",
+        "phone": "+915222287700"
+      },
+      "pwd": {
+        "name": "PWD Lucknow Division",
+        "email": "pwd.lucknow@up.gov.in",
+        "phone": "+915222610101"
+      },
+      "district": {
+        "name": "Lucknow District Magistrate",
+        "email": "dm.lucknow@nic.in",
+        "phone": "+915222620555"
+      }
+    },
+    {
+      "city": "Patna",
+      "state": "Bihar",
+      "municipal": {
+        "name": "Patna Municipal Corporation — helpline",
+        "email": "cs.pmc@biharurban.in",
+        "phone": "+916122220016"
+      },
+      "traffic": {
+        "name": "Patna Traffic Police",
+        "email": "traffic.patna@biharpolice.in",
+        "phone": "+916122211001"
+      },
+      "district": {
+        "name": "Patna District Magistrate",
+        "email": "dm.patna@nic.in",
+        "phone": "+916122212222"
+      }
+    },
+    {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "municipal": {
+        "name": "Amdavad Municipal Corporation — 155304 helpline",
+        "email": "grievance@ahmedabadcity.gov.in",
+        "phone": "+917926400000"
+      },
+      "traffic": {
+        "name": "Ahmedabad Traffic Police",
+        "email": "traffic@ahmedabadcitypolice.gov.in",
+        "phone": "+917927550100"
+      },
+      "district": {
+        "name": "Ahmedabad District Collector",
+        "email": "collector-ahd@gujarat.gov.in",
+        "phone": "+917927550200"
+      }
+    },
+    {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "municipal": {
+        "name": "Jaipur Municipal Corporation — grievance",
+        "email": "complaints@jhcmc.org",
+        "phone": "+911415115555"
+      },
+      "district": {
+        "name": "Jaipur District Collector",
+        "email": "dm.jaipur@rajasthan.gov.in",
+        "phone": "+911412220101"
+      }
+    },
+    {
+      "city": "Bhubaneswar",
+      "state": "Odisha",
+      "municipal": {
+        "name": "Bhubaneswar Municipal Corporation — helpline",
+        "email": "bmc.odisha@nic.in",
+        "phone": "+916742403000"
+      },
+      "district": {
+        "name": "Khurda District Collector",
+        "email": "collector.khurda@nic.in",
+        "phone": "+916742390555"
+      }
+    },
+    {
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "municipal": {
+        "name": "Bhopal Municipal Corporation — grievance",
+        "email": "cmc-bhopal@mp.gov.in",
+        "phone": "+917552703000"
+      },
+      "traffic": {
+        "name": "Bhopal Traffic Police",
+        "email": "traffic.bhopal@mppolice.gov.in",
+        "phone": "+917552701001"
+      }
+    },
+    {
+      "city": "Thiruvananthapuram",
+      "state": "Kerala",
+      "municipal": {
+        "name": "Thiruvananthapuram Corporation — grievance",
+        "email": "secretary@tvmcorporation.lsgkerala.gov.in",
+        "phone": "+914712300031"
+      },
+      "district": {
+        "name": "Thiruvananthapuram District Collector",
+        "email": "dctvm@kerala.nic.in",
+        "phone": "+914712730333"
+      }
+    }
+  ]
+}

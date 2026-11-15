@@ -1,0 +1,372 @@
+{
+  "states": [
+    {
+      "state": "Assam",
+      "cm": {
+        "name": "Chief Minister's Office, Assam",
+        "email": "cmo-assam@gov.in",
+        "phone": "+913612261122"
+      },
+      "forest": {
+        "name": "Assam Forest Department — PCCF grievance",
+        "email": "pccf-assam@assamforest.gov.in",
+        "phone": "+913612235081"
+      },
+      "mines": {
+        "name": "Assam Directorate of Mines and Geology",
+        "email": "dgm-assam@assam.gov.in",
+        "phone": "+913612250911"
+      },
+      "pollution": {
+        "name": "Assam Pollution Control Board",
+        "email": "pcb-assam@nic.in",
+        "phone": "+913612345678"
+      }
+    },
+    {
+      "state": "Maharashtra",
+      "cm": {
+        "name": "Chief Minister's Office, Maharashtra",
+        "email": "cmo@maharashtra.gov.in",
+        "phone": "+912222025151"
+      },
+      "forest": {
+        "name": "Maharashtra Forest Department",
+        "email": "pccf.mh@mahaforest.gov.in",
+        "phone": "+912222064000"
+      },
+      "mines": {
+        "name": "Maharashtra Directorate of Geology and Mines",
+        "email": "dgm.mines@maharashtra.gov.in",
+        "phone": "+912222031800"
+      },
+      "pollution": {
+        "name": "Maharashtra Pollution Control Board",
+        "email": "mpcb@mpcb.gov.in",
+        "phone": "+912224952244"
+      }
+    },
+    {
+      "state": "Delhi",
+      "cm": {
+        "name": "Chief Minister's Office, Delhi",
+        "email": "cmo@delhi.gov.in",
+        "phone": "+911123392600"
+      },
+      "forest": {
+        "name": "Delhi Forest Department",
+        "email": "forest@delhi.gov.in",
+        "phone": "+911123371828"
+      },
+      "mines": {
+        "name": "Delhi Directorate of Mining and Geology",
+        "email": "mining@delhi.gov.in",
+        "phone": "+911123371900"
+      },
+      "pollution": {
+        "name": "Delhi Pollution Control Committee",
+        "email": "docc@nic.in",
+        "phone": "+911123378255"
+      }
+    },
+    {
+      "state": "Karnataka",
+      "cm": {
+        "name": "Chief Minister's Office, Karnataka",
+        "email": "cmo@karnataka.gov.in",
+        "phone": "+918022253111"
+      },
+      "forest": {
+        "name": "Karnataka Forest Department",
+        "email": "pccf@aranya.gov.in",
+        "phone": "+918022666777"
+      },
+      "mines": {
+        "name": "Karnataka Department of Mines and Geology",
+        "email": "dmg@karnataka.gov.in",
+        "phone": "+918022338000"
+      },
+      "pollution": {
+        "name": "Karnataka State Pollution Control Board",
+        "email": "kspcb@karnataka.gov.in",
+        "phone": "+918025530110"
+      }
+    },
+    {
+      "state": "Tamil Nadu",
+      "cm": {
+        "name": "Chief Minister's Office, Tamil Nadu",
+        "email": "cmo@tn.gov.in",
+        "phone": "+914425670111"
+      },
+      "forest": {
+        "name": "Tamil Nadu Forest Department",
+        "email": "pccf@forests.tn.gov.in",
+        "phone": "+914424349000"
+      },
+      "mines": {
+        "name": "Tamil Nadu Department of Geology and Mining",
+        "email": "dgm@tn.gov.in",
+        "phone": "+914428510350"
+      },
+      "pollution": {
+        "name": "Tamil Nadu Pollution Control Board",
+        "email": "tnpcb@tn.gov.in",
+        "phone": "+914422353919"
+      }
+    },
+    {
+      "state": "West Bengal",
+      "cm": {
+        "name": "Chief Minister's Office, West Bengal",
+        "email": "cmo@wb.gov.in",
+        "phone": "+913322144000"
+      },
+      "forest": {
+        "name": "West Bengal Forest Department",
+        "email": "pccf@wbforest.gov.in",
+        "phone": "+913323359000"
+      },
+      "mines": {
+        "name": "West Bengal Directorate of Mines",
+        "email": "dirmines@wb.gov.in",
+        "phone": "+913322145301"
+      },
+      "pollution": {
+        "name": "West Bengal Pollution Control Board",
+        "email": "wbpcb@wbpcb.gov.in",
+        "phone": "+913323398000"
+      }
+    },
+    {
+      "state": "Uttar Pradesh",
+      "cm": {
+        "name": "Chief Minister's Office, Uttar Pradesh",
+        "email": "cmo@up.gov.in",
+        "phone": "+915222239011"
+      },
+      "forest": {
+        "name": "Uttar Pradesh Forest Department",
+        "email": "pccf-up@forest.up.nic.in",
+        "phone": "+915222236155"
+      },
+      "mines": {
+        "name": "Uttar Pradesh Directorate of Geology and Mining",
+        "email": "dgmg@up.gov.in",
+        "phone": "+915222620404"
+      },
+      "pollution": {
+        "name": "Uttar Pradesh Pollution Control Board",
+        "email": "upcbo@upcb.org",
+        "phone": "+915222615665"
+      }
+    },
+    {
+      "state": "Bihar",
+      "cm": {
+        "name": "Chief Minister's Office, Bihar",
+        "email": "cmo-bihar@bihar.gov.in",
+        "phone": "+916122226000"
+      },
+      "forest": {
+        "name": "Bihar Environment, Forest and Climate Change Department",
+        "email": "forest-bihar@bihar.gov.in",
+        "phone": "+916122213944"
+      },
+      "mines": {
+        "name": "Bihar Directorate of Mines",
+        "email": "mines-bihar@bihar.gov.in",
+        "phone": "+916122214750"
+      },
+      "pollution": {
+        "name": "Bihar State Pollution Control Board",
+        "email": "bspcb@bspcb.bihar.gov.in",
+        "phone": "+916122400103"
+      }
+    },
+    {
+      "state": "Gujarat",
+      "cm": {
+        "name": "Chief Minister's Office, Gujarat",
+        "email": "cmo@gujarat.gov.in",
+        "phone": "+917923205000"
+      },
+      "forest": {
+        "name": "Gujarat Forest Department",
+        "email": "pccf-gujarat@gujarat.gov.in",
+        "phone": "+917923276000"
+      },
+      "mines": {
+        "name": "Gujarat Directorate of Geology and Mining",
+        "email": "dgmg@gujarat.gov.in",
+        "phone": "+917923217000"
+      },
+      "pollution": {
+        "name": "Gujarat Pollution Control Board",
+        "email": "gpcb-connect@gpcb.gujarat.gov.in",
+        "phone": "+917923212000"
+      }
+    },
+    {
+      "state": "Rajasthan",
+      "cm": {
+        "name": "Chief Minister's Office, Rajasthan",
+        "email": "cmo@rajasthan.gov.in",
+        "phone": "+911415158000"
+      },
+      "forest": {
+        "name": "Rajasthan Forest Department",
+        "email": "pccf-forest@rajasthan.gov.in",
+        "phone": "+911415150000"
+      },
+      "mines": {
+        "name": "Rajasthan Directorate of Mines and Geology",
+        "email": "dmgraj@rajasthan.gov.in",
+        "phone": "+911415169000"
+      },
+      "pollution": {
+        "name": "Rajasthan State Pollution Control Board",
+        "email": "rspcb@rajasthan.gov.in",
+        "phone": "+911415157000"
+      }
+    },
+    {
+      "state": "Odisha",
+      "cm": {
+        "name": "Chief Minister's Office, Odisha",
+        "email": "cmo@odisha.gov.in",
+        "phone": "+916742328000"
+      },
+      "forest": {
+        "name": "Odisha Forest and Environment Department",
+        "email": "forest-odisha@odisha.gov.in",
+        "phone": "+916742403000"
+      },
+      "mines": {
+        "name": "Odisha Directorate of Mines",
+        "email": "dirmines@odisha.gov.in",
+        "phone": "+916742403500"
+      },
+      "pollution": {
+        "name": "Odisha State Pollution Control Board",
+        "email": "ospcb@ospcboard.org",
+        "phone": "+916742403000"
+      }
+    },
+    {
+      "state": "Madhya Pradesh",
+      "cm": {
+        "name": "Chief Minister's Office, Madhya Pradesh",
+        "email": "cmo@mp.gov.in",
+        "phone": "+917552440000"
+      },
+      "forest": {
+        "name": "Madhya Pradesh Forest Department",
+        "email": "pccf-mp@mpforest.gov.in",
+        "phone": "+917554000000"
+      },
+      "mines": {
+        "name": "Madhya Pradesh Directorate of Geology and Mining",
+        "email": "dgmmines@mp.gov.in",
+        "phone": "+917554812000"
+      },
+      "pollution": {
+        "name": "Madhya Pradesh Pollution Control Board",
+        "email": "mppcb@mppcb.nic.in",
+        "phone": "+917552466590"
+      }
+    },
+    {
+      "state": "Kerala",
+      "cm": {
+        "name": "Chief Minister's Office, Kerala",
+        "email": "cmo@kerala.gov.in",
+        "phone": "+914712518000"
+      },
+      "forest": {
+        "name": "Kerala Forest Department",
+        "email": "pccf@forest.kerala.gov.in",
+        "phone": "+914712323000"
+      },
+      "mines": {
+        "name": "Kerala Department of Mining and Geology",
+        "email": "dmg@kerala.gov.in",
+        "phone": "+914712524000"
+      },
+      "pollution": {
+        "name": "Kerala State Pollution Control Board",
+        "email": "kspcb@kerala.gov.in",
+        "phone": "+914712314000"
+      }
+    },
+    {
+      "state": "Telangana",
+      "cm": {
+        "name": "Chief Minister's Office, Telangana",
+        "email": "cmo@telangana.gov.in",
+        "phone": "+914023415000"
+      },
+      "forest": {
+        "name": "Telangana Forest Department",
+        "email": "pccf@telanganaforest.gov.in",
+        "phone": "+914023415500"
+      },
+      "mines": {
+        "name": "Telangana Department of Mines and Geology",
+        "email": "dmg@telangana.gov.in",
+        "phone": "+914023415700"
+      },
+      "pollution": {
+        "name": "Telangana State Pollution Control Board",
+        "email": "tspcb@tspcb.cgg.gov.in",
+        "phone": "+914023815000"
+      }
+    },
+    {
+      "state": "Punjab",
+      "cm": {
+        "name": "Chief Minister's Office, Punjab",
+        "email": "cmo@punjab.gov.in",
+        "phone": "+911722212000"
+      },
+      "forest": {
+        "name": "Punjab Forest Department",
+        "email": "pccf-punjab@punjab.gov.in",
+        "phone": "+911722213500"
+      },
+      "mines": {
+        "name": "Punjab Department of Mines and Geology",
+        "email": "dmg@punjab.gov.in",
+        "phone": "+911722214000"
+      },
+      "pollution": {
+        "name": "Punjab Pollution Control Board",
+        "email": "ppcb@punjab.gov.in",
+        "phone": "+911722213000"
+      }
+    },
+    {
+      "state": "Andhra Pradesh",
+      "cm": {
+        "name": "Chief Minister's Office, Andhra Pradesh",
+        "email": "cmo@ap.gov.in",
+        "phone": "+918632344000"
+      },
+      "forest": {
+        "name": "Andhra Pradesh Forest Department",
+        "email": "pccf@apforest.gov.in",
+        "phone": "+918632345000"
+      },
+      "mines": {
+        "name": "Andhra Pradesh Directorate of Mines and Geology",
+        "email": "dmg@ap.gov.in",
+        "phone": "+918632345500"
+      },
+      "pollution": {
+        "name": "Andhra Pradesh Pollution Control Board",
+        "email": "appcb@ap.gov.in",
+        "phone": "+918632343000"
+      }
+    }
+  ]
+}
